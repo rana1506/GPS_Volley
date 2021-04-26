@@ -59,7 +59,7 @@ public class VolleyFunctions {
     public VolleyFunctions(Context context)
     {
         this.context=context;
-        url = "https://script.google.com/macros/s/AKfycbybJ4WZ4ACGwz26ukGQJieFj8jtjVBlK0iamZL0tPxV1Gttt3g/exec";
+        url = "https://script.google.com/your_address";
     }
 
     public String getItems()
